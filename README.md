@@ -15,7 +15,7 @@ python version used:
  Make sure to install numpy & matplotlib
 
  ```bash
-pip3 install numpy matplotlib
+pip install numpy matplotlib
 ```
 
 ---
